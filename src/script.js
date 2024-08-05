@@ -37,7 +37,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Viraj Perera',
+            'Ti amo!',
             {
                 font: font,
                 size: 0.5,
